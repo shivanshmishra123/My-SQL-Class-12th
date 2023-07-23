@@ -9,7 +9,7 @@ Phone FLOAT,Email varchar(20));
 
 create table EMPLOYEE(EmpID varchar(10) primary key,EmpName varchar(10),DOB date,DOJ date,
 Designation varchar(20),Salary int);
-
+   
 
 
 INSERT INTO INVENTORY
@@ -224,6 +224,5 @@ select * from Music;
   
 --              SAME WAY THEIR IS MINUS,INTERSECT FUNCTION BUT NOT WRITING 
                           -- IT HERE SEE FROM BOOK
-                          
-                          
+-- Shivansh 
                           
